@@ -1,5 +1,5 @@
-##
-* 👋 Hi, I’m @sh4dowbolt aka Vitalii Suraev
+
+##* 👋 Hi, I’m @sh4dowbolt aka Vitalii Suraev
 * 👀 I’m interested in ...
 * 🌱 I’m currently learning ...
 * 📫 How to reach me mailto: #### dmit.palckin@yandex.ru | #### https://t.me/sh4dowb0lt
